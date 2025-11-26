@@ -6,6 +6,7 @@ h1 {
 color: black;
 text-align: center;
 }
+
 .project img{
 width: 300px;
 height: 300px;
@@ -19,6 +20,25 @@ a { /* change the appearance of ALL links */
 text-decoration: none;
 color: purple;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .project p { /* change the appearance of paragraph tags inside .project divs */
 text-align: center;
 margin: 15px;
